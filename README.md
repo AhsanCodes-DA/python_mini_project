@@ -9,7 +9,8 @@ This repository contains two Python mini-applications built to strengthen proble
 
 A console program to record daily expenses and calculate total spending.
 
-Features
+ 
+Features:
 
 1. Accepts multiple expense items
 
@@ -27,7 +28,8 @@ Features
 
 
 
-Key Concepts Used
+Key Concepts Used:
+
 
 while loop for continuous input
 
@@ -43,7 +45,8 @@ sum() + list comprehension
 
 ---
 
-1.2 Student Grade Calculator
+1.2 Student Grade Calculator:
+
 
 A script that takes marks of 5 subjects and calculates average & grade.
 
@@ -65,7 +68,7 @@ Features
 
 
 
-Key Concepts Used
+Key Concepts Used:
 
 for loop for repeated input
 
